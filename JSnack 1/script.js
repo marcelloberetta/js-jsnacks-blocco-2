@@ -1,14 +1,15 @@
 
-// //VERSIONE CICLO FOR
+//VERSIONE CICLO FOR
 
-// var somma= 0;
+var somma= 0;
 
-// for(i=0; i<; i++){
-//    var numeroUtente = parseInt(prompt("Dimmi un numero"));
-//    somma += numeroUtente;
-// }
+   
+for(i=0; i<; i++){
+    var numeroUtente = parseInt(prompt("Dimmi un numero"));
+    somma += numeroUtente;
+}
 
-// console.log(somma);
+ console.log(somma);
 
 
 //VERSIONE CICLO WHILE
